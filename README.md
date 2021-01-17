@@ -2,7 +2,7 @@
 
 Contains U-Net architecture for skin cell segmentation
 
-
+# Network Details
 Input image - 128 x 128 x 3
 
 Total params: 7,760,097
