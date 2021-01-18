@@ -11,4 +11,8 @@ Trainable params: 7,760,097
 
 Non-trainable params: 0
 
+# Dataset
+
+data taken from Kaggle: https://www.kaggle.com/c/data-science-bowl-2018/data
+
 
