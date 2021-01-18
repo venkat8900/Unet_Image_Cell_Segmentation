@@ -15,9 +15,13 @@ Non-trainable params: 0
 
 data taken from Kaggle: https://www.kaggle.com/c/data-science-bowl-2018/data
 
+# Training
+
+Run unet.py
+
 
 # Visualization
 
-To visualise results, run "!tensorboard --logdir=logs/ --host localhost --port 8000
+To visualise results, run "!tensorboard --logdir=logs/ --host localhost --port 8000" in command prompt after training gets completed
 
 
